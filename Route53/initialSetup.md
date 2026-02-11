@@ -442,7 +442,5 @@ Points to AWS Route 53
 
 do we still need soa record in route53, as tld server identified its managed by aws router 53 by awsdns word
 
- q
-
 
 
