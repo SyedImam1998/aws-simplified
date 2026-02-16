@@ -1,4 +1,4 @@
-#h3 Sort vs toSorted in JS
+## Sort vs toSorted in JS
 user
 explain me diff b/w sort and toSorted in js
 ChatGPT
@@ -52,7 +52,7 @@ console.log(arr === result); // false
 --------
 
   
-Typecasting in JS and Java
+## Typecasting in JS and Java
 user
 typecasting in js and java
 ChatGPT
